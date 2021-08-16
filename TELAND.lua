@@ -137,7 +137,7 @@ print([[
 
 ]])
 io.popen("mkdir File_Bot") 
-io.popen("cd File_Bot && wget https://raw.githubusercontent.com/shgab0/Files_Teland/main/File_Bot/commands.lua") 
+io.popen("cd File_Bot && wget https://raw.githubusercontent.com/TELANDTEAM/Files_Teland/main/File_Bot/commands.lua") 
 t = "\27[35m".."\nAll Files Started : \n____________________\n"..'\27[m'
 i = 0
 for v in io.popen('ls File_Bot'):lines() do
