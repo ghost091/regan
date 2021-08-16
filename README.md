@@ -1,1 +1,1 @@
-# regan
+# Alamy
